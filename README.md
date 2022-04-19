@@ -7,5 +7,8 @@ Simple page template based on React and GSAP animations.
 3. Run `npm run build`
 4. Go to build folder and host page
 
+## Demo
+*Soon...*
+
 ## License
 This template works on MIT license.
