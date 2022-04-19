@@ -1,5 +1,5 @@
 # Simple React Page Template
-Simple page template based on React and GSAP animations.
+Fully customizable Simple page template based on React and GSAP animations.
 
 # Instalation
 1. Download Files
@@ -9,6 +9,9 @@ Simple page template based on React and GSAP animations.
 
 ## Demo
 *Soon...*
+
+**Preview**
+![GIF](https://user-images.githubusercontent.com/80514290/164066571-b0e883fc-95f1-4ff2-85b5-74c714862a71.gif)
 
 ## License
 This template works on MIT license.
