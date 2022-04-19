@@ -1,0 +1,23 @@
+footer {
+    background-color: #1e1e1e;
+    margin-top: 100px;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px 0 0 0;
+}
+
+footer p {
+    color: var(--footer-color);
+    margin-bottom: 0;
+}
+
+footer span {
+    color: var(--color)
+}
+
+footer a {
+    font-size: 15px;
+    margin: 0;
+    text-decoration: none;
+    color: var(--footer-color)
+}

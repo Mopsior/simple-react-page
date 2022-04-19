@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  background-color: var(--background-color);
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  color-scheme: dark;
+}
+
+h1, h2, p {
+  margin: 0;
+}
